@@ -18,3 +18,5 @@ O wireframe foi desenvolvido utilizando o Figma.
 ## 🖼️ Wireframe
 A imagem do wireframe está disponível abaixo.
 
+![Wireframe](imagens/wireframe.png)
+
